@@ -16,14 +16,14 @@
 
 ---
 
-### 🛠️ Tech Stack
 ```js
-Languages:  JavaScript | Python | Java
-Frontend:   React.js | HTML | CSS | Tailwind CSS | Next.js
-Backend:    Node.js | Express.js | JWT | REST APIs | Multer
-Database:   MongoDB | SQLite | Mongoose
-AI/ML:      Python | Pandas | scikit-learn | OpenAI API
+Languages:  JavaScript | Python | Java  
+Frontend:   React.js | HTML | CSS | Tailwind CSS | Next.js  
+Backend:    Node.js | Express.js | JWT | REST APIs | Multer  
+Database:   MongoDB | SQLite | Mongoose  
+AI/ML:      Python | Pandas | scikit-learn | OpenAI API  
 Tools:      Git | GitHub | Postman | VSCode | Render | Vercel | Netlify
+```
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adityaraj97513&show_icons=true&theme=radical" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=adityaraj97513&theme=radical&hide_border=false" height="180"/> </p>
 📫 Let's Connect
