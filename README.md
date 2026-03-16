@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 👨‍💻 I’m currently working on **AgriMitraAI – an AI-powered assistant for farmers**
+- 👨‍💻 I’m currently working on **Software ENGINEERING INTERN AT MPOKKET FINANCIAL SERVICES** 
 - 💡 Building a **Customer Support System** with integrated chatbot for B2B SaaS tools
 - 🔭 Passionate about **scalable backend systems** and **real-world AI/ML applications**
 - 📚 Strong foundation in **Data Structures, Algorithms, and Core CS concepts**
@@ -19,10 +19,11 @@
 ```js
 Languages:  JavaScript | Python | Java  
 Frontend:   React.js | HTML | CSS | Tailwind CSS | Next.js  
-Backend:    Node.js | Express.js | JWT | REST APIs | Multer  
+Backend:    Node.js | Express.js | JWT | REST APIs | Springboot| JPA 
 Database:   MongoDB | SQLite | Mongoose  
 AI/ML:      Python | Pandas | scikit-learn | OpenAI API  
 Tools:      Git | GitHub | Postman | VSCode | Render | Vercel | Netlify
+DESIGNS:    HIgh Level Design(HLD)|Low Level Design(LLD) | Load Balancer | Reddis Cache
 ```
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adityaraj97513&show_icons=true&theme=radical" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=adityaraj97513&theme=radical&hide_border=false" height="180"/> </p>
